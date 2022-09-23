@@ -1,0 +1,4 @@
+baseURL: "https://dev.tsamp.net/"
+
+enableRobotsTXT: false
+buildDrafts: true
