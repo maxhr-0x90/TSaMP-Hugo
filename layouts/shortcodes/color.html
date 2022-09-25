@@ -1,0 +1,11 @@
+{{ $colors := slice "red" "orange" "yellow" "green" "blue" "purple" "invert" -}}
+
+{{- $fg := .Get "fc" -}}
+{{- $bg := .Get "bc" -}}
+
+{{- if in $colors $fg }}{{ $fg = printf "fg%s" $fg }}{{ else }}{{ $fg = "" }}{{ end -}}
+{{- if in $colors $bg }}{{ $bg = printf "bg%s" $bg }}{{ else }}{{ $bg = "" }}{{ end -}}
+
+<span class='coolors {{ $fg }} {{ $bg }}'>
+    {{- .Inner | markdownify -}}
+</span>
