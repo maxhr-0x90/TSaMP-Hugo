@@ -1,0 +1,5 @@
+# Lock file from Hugo server
+.hugo_build.lock
+
+# Public folder (build)
+build/
