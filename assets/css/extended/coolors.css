@@ -1,0 +1,24 @@
+.coolors {
+    --red:    #bf616a;
+    --orange: #d08770;
+    --yellow: #ebcb8b;
+    --green:  #a3be8c;
+    --blue:   #88c0d0;
+    --purple: #b48ead;
+}
+
+.coolors.bgred { background-color: var(--red); }
+.coolors.bgorange { background-color: var(--orange); }
+.coolors.bgyellow { background-color: var(--yellow); }
+.coolors.bggreen { background-color: var(--green); }
+.coolors.bgblue { background-color: var(--blue); }
+.coolors.bgpurple { background-color: var(--purple); }
+.coolors.bginvert { background-color: var(--content); }
+
+.coolors.fgred { color: var(--red); }
+.coolors.fgorange { color: var(--orange); }
+.coolors.fgyellow { color: var(--yellow); }
+.coolors.fggreen { color: var(--green); }
+.coolors.fgblue { color: var(--blue); }
+.coolors.fgpurple { color: var(--purple); }
+.coolors.fginvert { color: var(--theme); }

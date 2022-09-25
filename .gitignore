@@ -1,5 +1,6 @@
 # Lock file from Hugo server
 .hugo_build.lock
 
-# Public folder (build)
+# Folder to ignore
 build/
+.vscode/

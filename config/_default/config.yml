@@ -4,6 +4,8 @@ theme: PaperMod
 
 buildFuture: false
 buildExpired: false
+enableInlineShortcodes: true
+enableEmoji: true
 
 minify:
   disableXML: true
@@ -20,7 +22,7 @@ params:
 
   ShowReadingTime: false
   ShowShareButtons: true
-  ShowPostNavLinks: true
+  ShowPostNavLinks: false
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
   ShowWordCount: true
@@ -31,7 +33,7 @@ params:
   comments: false
   hidemeta: false
   hideSummary: false
-  showtoc: false
+  showtoc: true
   tocopen: false
 
   label:
