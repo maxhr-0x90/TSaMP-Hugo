@@ -1,0 +1,13 @@
+{{- $title := .Get 0 -}}
+{{- $open := .Get 1 -}}
+<div class="more">
+    <details {{ if $open }} open{{ end }}>
+        <summary title="{{- $title }}">
+            <span class="details">{{- $title }}</span>
+        </summary>
+
+        <div class="inner">
+          {{- .Inner | markdownify -}}
+        </div>
+    </details>
+</div>

@@ -1,0 +1,42 @@
+.more a:hover {
+  box-shadow: 0 1px 0;
+}
+
+.more {
+  margin: 0 2px 40px 2px;
+  border: 1px solid var(--border);
+  background: var(--code-bg);
+  border-radius: var(--radius);
+  padding: 0.4em;
+}
+
+.dark .more {
+  background: var(--entry);
+}
+
+.more details summary {
+  cursor: zoom-in;
+  margin-inline-start: 20px;
+}
+
+.more details[open] summary {
+  cursor: zoom-out;
+}
+
+.more .details {
+  display: inline;
+  font-weight: 500;
+}
+
+.more .inner {
+  margin: 0 20px;
+  padding: 10px 20px;
+}
+
+.more li ul {
+  margin-inline-start: var(--gap);
+}
+
+.more summary:focus {
+  outline: 0;
+}
