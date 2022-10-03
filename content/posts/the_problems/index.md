@@ -44,7 +44,7 @@ problem whose solution can be quickly verified can also be quickly solved.
 **Status**: {{< color fc="red" >}}Unsolved{{< /color >}}
 
 This will be swift. There is this zeta function
-({{< math.inline >}}\(\zeta(s),~s\in\mathbb{C}\){{< /math.inline >}})
+({{< math.inline >}}\(\zeta(s),~s\in\mathbb{C}\){{< /math.inline >}}) [^cmplx]
 that prime enjoyers really love, especially when it hits 0. Riemann though that,
 except for the {{< math.inline >}}\(s=-2n,~n\in\N\){{< /math.inline >}} inputs,
 {{< math.inline >}}\(\zeta(s)=0,~then,~Re(s)=\frac{1}{2}\){{< /math.inline >}}
@@ -52,6 +52,7 @@ except for the {{< math.inline >}}\(s=-2n,~n\in\N\){{< /math.inline >}} inputs,
 
 **TS;WM**: Lost it :pensive:
 
+[^cmplx]: {{< math.inline >}}\(\mathbb{C}\){{< /math.inline >}}, the set of complex numbers
 [^real]: The real part of s. If you don't get it, don't worry it's complex.
 
 ## Compression Level: Dangerous
