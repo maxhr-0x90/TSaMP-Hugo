@@ -35,7 +35,8 @@ of Computer Science[^1] with a deficiency in common sense.
 will be my epitaph.  
 So if this site seems dead you know why. That being said I don't know how long each entry will take.
 So if you want to have more regular updates on my status and see me sink into madness:
-come to my [Twitter](https://twitter.com/deq_not_qed) and enjoy the constant logorrhea.
+come to my [Twitter](https://twitter.com/deq_not_qed) and enjoy my contribution
+to the constant logorrhea.
 
 NB: If you ever want an advice for me: **DON'T**. It's not that I don't want to.
 I will give you advices, BUT do you really want to base your guidance in life on

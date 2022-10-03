@@ -29,7 +29,9 @@ is, and will always be, a **NO PHYSICS ZONE**. We'll never do physics here. Neve
 And finally, let's admit that the problem was already picked way before those
 lines were ever written and just go to the result of this masquerade.
 
-**Problem choosen**: P versus NP (what a surprise !)
+**Problem choosen**: P versus NP [^wow]
+
+[^wow]: What a surprise ! The CS strudent chose the CS problem :neutral_face:
 
 ## Step 2: Solve the Millennium Problem
 

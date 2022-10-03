@@ -44,15 +44,14 @@ problem whose solution can be quickly verified can also be quickly solved.
 **Status**: {{< color fc="red" >}}Unsolved{{< /color >}}
 
 This will be swift. There is this zeta function
-({{< math.inline >}}\(\zeta(s),~s\in\mathbb{C}\){{< /math.inline >}}) [^cmplx]
+({{< math.inline >}}\(\zeta(s),~s\in\mathbb{C}\){{< /math.inline >}} [^sets])
 that prime enjoyers really love, especially when it hits 0. Riemann though that,
-except for the {{< math.inline >}}\(s=-2n,~n\in\N\){{< /math.inline >}} inputs,
+except for the {{< math.inline >}}\(s=-2n,~n\in\N\){{< /math.inline >}} [^sets] inputs,
 {{< math.inline >}}\(\zeta(s)=0,~then,~Re(s)=\frac{1}{2}\){{< /math.inline >}}
 [^real]. Is he correct ?
 
 **TS;WM**: Lost it :pensive:
 
-[^cmplx]: {{< math.inline >}}\(\mathbb{C}\){{< /math.inline >}}, the set of complex numbers
 [^real]: The real part of s. If you don't get it, don't worry it's complex.
 
 ## Compression Level: Dangerous
@@ -70,9 +69,9 @@ more ways to be wrong :smile:. Given equations that describe the motion of a flu
 in {{< math.inline >}}\(\R^3\){{< /math.inline >}}.
 You need to either:
 
-1. Prove the existence and smoothness of the solutions in {{< math.inline >}}\(\R^3\){{< /math.inline >}}  
+1. Prove the existence and smoothness of the solutions in {{< math.inline >}}\(\R^3\){{< /math.inline >}}[^3d]  
   Meaning the solutions are defined and have no abrupt change in value
-2. Prove the breakdown of the solutions in {{< math.inline >}}\(\R^3\){{< /math.inline >}}  
+2. Prove the breakdown of the solutions in {{< math.inline >}}\(\R^3\){{< /math.inline >}}[^3d]  
   Meaning there are some inputs that breaks the assumptions of the equations
 3. Prove the existence and smoothness of the solutions in
 {{< math.inline >}}\(\mathbb{T}^3\){{< /math.inline >}} [^torus]  
@@ -82,6 +81,7 @@ You need to either:
 
 **TS;WM**: My dog ate it
 
+[^3d]: Good ol' 3D space :cowboy:
 [^torus]: 3D Torus space; hyper-donut if you will
 
 ### Birch and Swinnerton-Dyer conjecture
@@ -90,17 +90,16 @@ You need to either:
 
 **Status**: {{< color fc="red" >}}Unsolved{{< /color >}}
 
-Some people cannot enjoy the fact reals ({{< math.inline >}}\(\R\){{< /math.inline >}}) exist.  
+Some people cannot enjoy the fact reals ({{< math.inline >}}\(\R\){{< /math.inline >}} [^sets]) exist.  
 For exemple: the Birch and Swinnerton-Dyer conjecture states that there is a way
 to know if an elliptic curve of the form:
 
 $$
 y^2 = x^3+ax+b
 $$
-{{< math.inline >}}
-with \(a,~b \in \Z\),
-has solutions in the rationals, meaning: \(x,~y \in \mathbb{Q}\).
-{{</ math.inline >}}  
+with {{< math.inline >}}\(a,~b \in \Z\){{</ math.inline >}} [^sets],
+has solutions in the rationals, meaning:
+{{< math.inline >}}\(x,~y \in \mathbb{Q}\){{</ math.inline >}} [^sets].  
 And if there are finitely -- or infinitely -- many of them.
 
 **TS;WM**: Last time I checked, you had it :unamused:
@@ -163,6 +162,8 @@ cycle) can always be expressed as a composition of other elements.
 That's as far as I can go without having to read a book :pensive:
 
 **TS;WM**: Nope.
+
+[^sets]: [Number sets](https://en.wikipedia.org/wiki/Set_(mathematics)#Special_sets_of_numbers_in_mathematics)
 
 With all of this information I can easily finish step one of my master plan. Once
 I've made up my mind on the matter, the [Progress](/posts/progress) entry will be updated.
