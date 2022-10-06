@@ -51,4 +51,5 @@ doesn't even understand, will end up in him becoming a millionaire[^2] ?
 People may fear what they don't understand because they know fear. But a fool knows
 nothing and thus can't fear. To them climbing a hill or Mt. Everest are the same.
 And when it comes to being dense this is the right place, the territory where
-foolishness knows no bounds. Welcome to TSaMP :sunglasses:
+foolishness knows no bounds.  
+Welcome to TSaMP :sunglasses:

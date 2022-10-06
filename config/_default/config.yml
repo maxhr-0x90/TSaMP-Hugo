@@ -105,6 +105,10 @@ menu:
       name: Tags
       url: /tags/
       weight: 40
+    - identifier: glossary
+      name: Glossary
+      url: https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols
+      weight: 60
     
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
