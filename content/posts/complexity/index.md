@@ -1,7 +1,7 @@
 ---
 title: "The Complexity"
 date: 2022-10-04T15:40:06+02:00
-draft: true
+draft: false
 summary: Understand and evaluate time complexity
 tags: ["Exposition", "P vs. NP"]
 ---
