@@ -4,7 +4,7 @@ date: 2022-09-25T16:34:57+02:00
 draft: false
 weight: 2
 summary: Where it all begins.
-tags: ["lore"]
+tags: ["Exposition"]
 ---
 
 Let's waste no time ! We need to find a Millennium Problem.  
@@ -44,15 +44,14 @@ problem whose solution can be quickly verified can also be quickly solved.
 **Status**: {{< color fc="red" >}}Unsolved{{< /color >}}
 
 This will be swift. There is this zeta function
-({{< math.inline >}}\(\zeta(s),~s\in\mathbb{C}\){{< /math.inline >}}) [^cmplx]
+({{< math.inline >}}\(\zeta(s),~s\in\mathbb{C}\){{< /math.inline >}})
 that prime enjoyers really love, especially when it hits 0. Riemann though that,
 except for the {{< math.inline >}}\(s=-2n,~n\in\N\){{< /math.inline >}} inputs,
-{{< math.inline >}}\(\zeta(s)=0,~then,~Re(s)=\frac{1}{2}\){{< /math.inline >}}
-[^real]. Is he correct ?
+{{< math.inline >}}\(\zeta(s)=0,~then,~Re(s)=\frac{1}{2}\){{< /math.inline >}}[^real].  
+Is he correct ?
 
 **TS;WM**: Lost it :pensive:
 
-[^cmplx]: {{< math.inline >}}\(\mathbb{C}\){{< /math.inline >}}, the set of complex numbers
 [^real]: The real part of s. If you don't get it, don't worry it's complex.
 
 ## Compression Level: Dangerous
@@ -101,7 +100,7 @@ $$
 with \(a,~b \in \Z\),
 has solutions in the rationals, meaning: \(x,~y \in \mathbb{Q}\).
 {{</ math.inline >}}  
-And if there are finitely -- or infinitely -- many of them.
+And if there are finitely --or infinitely-- many of them.
 
 **TS;WM**: Last time I checked, you had it :unamused:
 
@@ -129,7 +128,7 @@ to the 3-sphere)[^morph].
 **TS;WM**: It's solved, this would be a waste of time
 
 [^3spere]: A sphere for laypersons is a 2-sphere for topologists. Thus a 3-sphere is
-an hypersphere, which is -- as always -- a bit confusing to think about.
+an hypersphere, which is --as always-- a bit confusing to think about.
 [^morph]: homeomorphic to the 3-sphere, as the cool kids say nowadays
 
 ## Compression Level: Dreadful
@@ -146,8 +145,8 @@ If you like finishing games to 100%, this one is yours. In a nutshell, the task 
 is to find equations that describe the bedrock of quantum field theories while being
 in accordance with the mass gap observed in reality. And even though most physicists
 aren't actively waiting for this one to be solved, as they already have their
-experimental results. It would still be kinda cool -- for the sake of knowledge and
-completism -- to find the underlying equations.
+experimental results. It would still be kinda cool --for the sake of knowledge and
+completism-- to find the underlying equations.
 
 **TS;WM**: This part is left as an exercise to the reader
 

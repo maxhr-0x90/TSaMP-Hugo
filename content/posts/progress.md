@@ -1,9 +1,10 @@
 ---
-title: "Progress"
+title: "The Progress"
 date: 2022-09-27T22:03:50+02:00
 draft: false
 summary: Is it done ? (Probably not)
 weight: 1
+tags: ["Lore"]
 ---
 
 ## Step 1: Choose a Millennium Problem
@@ -18,7 +19,7 @@ First of all *Poincaré conjecture* is out of the selection pool on account of t
 fact that being solved means no money. Which would be quite a flaw in my master plan.
 
 Onto the obvious; any problem in the [Compression Level: Dangerous](/posts/the_problems/#compression-level-dreadful)
-are a clear sign of the lack of interest and knowledge -- mostly the latter -- in
+are a clear sign of the lack of interest and knowledge --mostly the latter-- in
 those problems. It thus seems imperative to eliminate them. So no *Hodge conjecture*,
 and no *Yang–Mills existence and mass gap*.
 
@@ -29,7 +30,10 @@ is, and will always be, a **NO PHYSICS ZONE**. We'll never do physics here. Neve
 And finally, let's admit that the problem was already picked way before those
 lines were ever written and just go to the result of this masquerade.
 
-**Problem choosen**: P versus NP (what a surprise !)
+**Problem choosen**: P versus NP [^wow]
+
+[^wow]: What a surprise ! The CS student chose the CS problem :neutral_face:  
+  (Let's take adavntage of the --insignificant-- head start I have)
 
 ## Step 2: Solve the Millennium Problem
 
