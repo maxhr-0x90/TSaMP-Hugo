@@ -101,10 +101,6 @@ menu:
       name: Archives
       url: /archives/
       weight: 30
-    - identifier: tags
-      name: Tags
-      url: /tags/
-      weight: 40
     - identifier: glossary
       name: Glossary
       url: https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols

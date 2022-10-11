@@ -1,10 +1,8 @@
 ---
-title: "The Problems"
-date: 2022-09-25T16:34:57+02:00
+title: "A quick and unhelpful guide to the Millennium Problems"
 draft: false
 weight: 2
 summary: Where it all begins.
-tags: ["Exposition"]
 ---
 
 Let's waste no time ! We need to find a Millennium Problem.  

@@ -1,6 +1,5 @@
 ---
 title: Welcome traveler !
-date: 2022-09-25T11:43:46+02:00
 draft: false
 showtoc: false
 disableShare: true

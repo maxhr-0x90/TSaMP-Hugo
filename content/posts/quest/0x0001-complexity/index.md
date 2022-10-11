@@ -1,9 +1,8 @@
 ---
-title: "The Complexity"
+title: "Need for Speed"
 date: 2022-10-04T15:40:06+02:00
 draft: false
 summary: Understand and evaluate time complexity
-tags: ["Exposition", "P vs. NP"]
 ---
 
 If you've ever interacted with the programming community, you may have heard something

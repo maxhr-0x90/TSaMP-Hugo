@@ -1,10 +1,8 @@
 ---
-title: "The Progress"
-date: 2022-09-27T22:03:50+02:00
+title: "Roadmap"
 draft: false
 summary: Is it done ? (Probably not)
 weight: 1
-tags: ["Lore"]
 ---
 
 ## Step 1: Choose a Millennium Problem
@@ -32,8 +30,8 @@ lines were ever written and just go to the result of this masquerade.
 
 **Problem choosen**: P versus NP [^wow]
 
-[^wow]: What a surprise ! The CS student chose the CS problem :neutral_face:  
-  (Let's take adavntage of the --insignificant-- head start I have)
+[^wow]: What a surprise ! The CS student chose the CS problem :neutral_face:...
+  (Let me enjoy the meager adavntage I have)
 
 ## Step 2: Solve the Millennium Problem
 
