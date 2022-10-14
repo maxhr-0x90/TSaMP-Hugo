@@ -1,10 +1,8 @@
 ---
-title: "The Problems"
-date: 2022-09-25T16:34:57+02:00
+title: "A quick and unhelpful guide to the Millennium Problems"
 draft: false
 weight: 2
 summary: Where it all begins.
-tags: ["Exposition"]
 ---
 
 Let's waste no time ! We need to find a Millennium Problem.  
@@ -13,7 +11,7 @@ of each one. Not to worry though, as I'm a layman myself it'll thus be in layman
 If you are in a hurry to the point of not carring about the the accuracy of
 the content you're consuming, those TL;DRs[^tldr] are made for you :sunglasses:.
 Nonetheless, for the big brains amongst you, in time, there will be TS;WM[^tswm],
-in the form of other entries.
+in the form of other quest entries (I may or may not retract that statement later).
 
 Anyway here are those summaries :
 
@@ -167,9 +165,4 @@ That's as far as I can go without having to read a book :pensive:
 [^sets]: [Number sets](https://en.wikipedia.org/wiki/Set_(mathematics)#Special_sets_of_numbers_in_mathematics)
 
 With all of this information I can easily finish step one of my master plan. Once
-I've made up my mind on the matter, the [Progress](/posts/progress) entry will be updated.
-
----
-
-Till we meet again, remember to always be less dense than your notation.  
-Goodbye traveler :smile:
+I've made up my mind on the matter, the [Progress](/posts/lore/0x0000-progress) entry will be updated.
