@@ -238,3 +238,10 @@ but the topic of recusion is quite a treaterous one. Still here it is:
 [^srry]: That doesn't mean that it's unsolvable or even remotely complicated to solve.
   But if you wanna be unstoppable I'm sure there is a book or articles that can suit
   your desire for knowledge in the art of recurrence relation.
+
+So to answer the initial question, the programming skills of `FastBoi1337` indeed
+matter, and in a very significant way. At the end of the day, unless a programming
+language introduces an gargantuan overhead, in term of speed, the choice of a language
+is of little conquence. The concept of a solution is more important than it's
+implementation (at least in theory). That's why we made an entire field of
+mathematics about this idea of doing things efficiently.
