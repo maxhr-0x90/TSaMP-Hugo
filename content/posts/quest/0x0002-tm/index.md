@@ -1,7 +1,7 @@
 ---
 title: "Turing's Keynote"
 date: 2022-10-24T20:24:17+02:00
-summary: Turing Machines 101
+summary: Turing Machines presention
 draft: false
 ---
 
@@ -9,8 +9,8 @@ I recently was at the S.A.M.S.A.R.A. [^meta], it was delightful ! There was a lo
 of talks on various topics but the one that caught my attention was the keynote held by
 that Alan Turing fella. Really exciting stuff about that new type of computer, more
 abstract, simpler yet powerful, with a slick design. The minimalist dream.
-Everyone most likely already heard of it: the A-Machine ! or Turing Machine as
-everyone like to call it.  
+Everyone most likely already heard of it: the A-Machine ! or, as most people like
+to call it: the Turing Machine.
 Anyway let's see what's all that hype about.
 
 [^meta]: S.A.M.S.A.R.A. Annual Mathematical Summit Against Recursive Annotation
@@ -21,23 +21,23 @@ Here is the main idea behind this machine. First no more hard drive, nor R.A.M.,
 everything is on an tape with infinite cells. That means infinite memory, infite
 possibilities :sunglasses:. On each cell there is a symbol from a predefined
 alphabet with no limitations. So no more of that weak and flimsy binary, you can
-now enjoy the new and improved {♛, ♫, ©, ඞ} alphabet, and more ! Though most
-of the time binary is just fine.
+now enjoy the new and improved {♛, ♫, ©, ඞ} alphabet, and more ! Though, I'll admit
+it, for most cases binary is just fine.
 
 Now onto the plat de résistance. Say goodbye to your obsolete CPU and hello to the
-reading and writing apparatus of the machine, somberly called: the Head. The Head
+reading and writing apparatus of the machine, somberly called: the head. The head
 of the machine can not only read and write symbols, it can also move along the tape.
-In addition to its mobility, the Head also has multiple states that it can be in
+In addition to its mobility, the head also has multiple states that it can be in
 to change its behaviour.
 
 When all of this has been setup, the alphabet been chosen, the different states
 defined with their according behaviours, we can run the machine. And as with
 everything else the runtime execution is really intuive and simple. At the beginning
-of each step the Head read the symbol on the tape then, according to the state it is
+of each step the head read the symbol on the tape then, accordingly to the state it is
 in, it can change the symbol, move on the tape and change its state. It will repeat
 this process until there is no next step (i.e. no actions have been defined for the
 symbol read and the current state), and at this point will stop/halt. If the state
-the Head is in at that moment is an accepting state (defined before runtime as a
+the head is in at that moment is an accepting state (defined before runtime as a
 subset of all possible states) then the machine accepts the input (i.e. the initial
 state of the tape before runtime) else it rejects it.
 
@@ -54,7 +54,7 @@ a 7-tuple
 - {{< math.inline >}}\(\Sigma \subseteq \Gamma\){{< /math.inline >}} is the input
   alphabet (e.g. {0, 1, ◿});
 - {{< math.inline >}}\(Q\){{< /math.inline >}} is a finite set of all possible
-  Head state;
+  head state;
 - {{< math.inline >}}\(q_0 \in Q\){{< /math.inline >}} is the initial state;
 - {{< math.inline >}}\(F \subseteq Q\){{< /math.inline >}} is the set of
   final/accepting states;
@@ -65,23 +65,23 @@ a 7-tuple
   is a partial function (i.e. we don't need to define all the transition from
   {{< math.inline >}}\((Q \setminus F)\){{< /math.inline >}}), that depending on
   the symbol read and the current state gives the symbol to write, the next state
-  and the movement of the Head (e.i. L: left, R: right and S: stay)
+  and the movement of the head (e.i. L: left, R: right and S: stay)
 
 And of course, it's possible to witness the power of this beast --at least partially--
 on the [Turing Machine Simulator](https://turingmachinesimulator.com/).
 
-[^dream]: I dream of the day where the copyrighted royal amongi musical will
+[^dream]: I dream of the day when the copyrighted royal amongi musical will
   prevail :pensive:
 
 ## Upgrades
 
-But that's not all, it's possible to get an upgrade !
+But that's not all, it's possible to get upgrades !
 
 We can divide them into 2 categories. First, the conceptual upgrades. They help to think
 about a Turing machine without altering its inner workings. A simple example would
-be that on some machines the transition function doesn't allow the Head to stay. Even
+be that on some machines the transition function doesn't allow the head to stay. Even
 though it seems like a limitation, it's still possible for such a machine to simulate
-the action of staying in place (going back and forth with some state shenanigans should
+the action of staying in place (e.g. going back and forth with some state shenanigans should
 do the trick).
 
 The second type of upgrade is fundamental. They are useful if ones wants to give
@@ -94,7 +94,7 @@ a RATM can just seemingly teleport itself to a random position on the tape. This
 offers obvious perks as it allows the machine to do in one step what the other
 could only do in arbitrarily many.
 
-During the keynote a LOT of upgrades were presented. So here is
+During the keynote a LOT of upgrades were presented. Here is
 a more in-depth presentation of some of the most common amongst them.
 
 ### Multi-tapes
@@ -265,7 +265,7 @@ a deterministic machine:
  '-'          '-'          '-'                  '-'
 ```
 
-And here is the one for the non-deterministic case (assuming exactly 2 choices
+And here is the one for a non-deterministic case (assuming exactly 2 choices
 possible for each configuration):
 
 ```goat
