@@ -22,7 +22,7 @@ everything is on an tape with infinite cells. That means infinite memory, infite
 possibilities :sunglasses:. On each cell there is a symbol from a predefined
 alphabet with no limitations. So no more of that weak and flimsy binary, you can
 now enjoy the new and improved {♛, ♫, ©, ඞ} alphabet, and more ! Though, I'll admit
-it, for most cases binary is just fine.
+it, for all cases, with some encoding trickery, binary is just fine.
 
 Now onto the plat de résistance. Say goodbye to your obsolete CPU and hello to the
 reading and writing apparatus of the machine, somberly called: the head. The head
@@ -302,8 +302,8 @@ more than a derministic machine configuration in the same amount of steps.
 One other way to consider NDTMs in terms of deterministic TMs is with the use of a certificate.
 A certificate is a string of symbols that gives informations on the choices of an NDTM
 to an accepting state. Thus it's possible to produce a certificate if and only if
-an NDTM accepts a given input. Additionally, given a well enough made certificate
-a deterministic TM can accept the same input as an NDTM, running in
+an NDTM accepts a given input. Additionally, given the same input and a well enough
+made certificate, a deterministic TM can accept the same input as an NDTM, running in
 {{< math.inline >}}\(T(n)\), in \(O(T(n))\){{< /math.inline >}} [^hind].
 
 [^hind]: Hindsight is quite the power indeed
