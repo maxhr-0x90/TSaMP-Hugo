@@ -23,15 +23,15 @@ terms of rigorous proofs and writing in general.
 
 On that note, I will at some point in the future have to look at other attempts
 on the problem. That way I'll --hopefully-- avoid making the same mistakes and
-learn what path are the most promising. The [The P-versus-NP page](https://www.win.tue.nl/~gwoegi/P-versus-NP.htm)
+learn what paths are the most promising. The [The P-versus-NP page](https://www.win.tue.nl/~gwoegi/P-versus-NP.htm)
 should help in this endeavor.
 
-Finally, as a way to increase the goofiness of my quest, my position on the problem
-shall be P = NP. We still are on a foolish territory so why not go all the way :wink:.
-This, for the time being, will not influence how I work as I'm too much of a neophyte
-to really know the intrinsic difference.
+Finally, as a way to increase the goofiness of my quest, my conjecture on the problem
+shall be that P = NP. We are on a foolish territory after all, so why not go all the way
+:wink:. This, for the time being, will not influence how I work as I'm too much of a
+neophyte to really appreciate the intrinsic difference.
 
-Again, I know the ~~bravery~~ foolishness of my quest. But let's remember that
+Again, I realize the ~~bravery~~ foolishness of my quest. But let's remember that
 fun is of the utmost importance. Better not dwell on the details and just press on,
 shall we ?
 
