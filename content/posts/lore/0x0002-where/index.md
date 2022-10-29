@@ -23,7 +23,7 @@ terms of rigorous proofs and writing in general.
 
 On that note, I will at some point in the future have to look at other attempts
 on the problem. That way I'll --hopefully-- avoid making the same mistakes and
-learn what path are the most promising.The [The P-versus-NP page](https://www.win.tue.nl/~gwoegi/P-versus-NP.htm)
+learn what path are the most promising. The [The P-versus-NP page](https://www.win.tue.nl/~gwoegi/P-versus-NP.htm)
 should help in this endeavor.
 
 Finally, as a way to increase the goofiness of my quest, my position on the problem
