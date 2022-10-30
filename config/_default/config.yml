@@ -89,10 +89,10 @@ params:
 
 menu:
   main:
-    - identifier: about
-      name: About
-      url: /about/
-      weight: 50
+    - identifier: hub
+      name: Hub
+      url: /posts/
+      weight: 10
     - identifier: search
       name: Search
       url: /search/
@@ -101,6 +101,10 @@ menu:
       name: Archives
       url: /archives/
       weight: 30
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 50
     - identifier: glossary
       name: Glossary
       url: https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols
