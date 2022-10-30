@@ -11,14 +11,14 @@ This is the basis of my quest. The million dollar problem itself:
 {{< math.inline >}}\(\bold{P}~vs.~\bold{NP}\), also called
 \(\bold{P} \stackrel{?}{=} \bold{NP}\). But what are
 those elusive \(\bf P\) and \(\bf NP\) things ? Because if this is some kind of equation
-it's pretty easy to see that \(P = NP \iff P = 0,~or~N = 1\). Which is pretty
+it's pretty easy to see that \(P = NP \iff P = 0,~or~N = 1\). Which would be pretty
 underwhelming.{{< /math.inline >}}
 
-But of course if it were that easy there would be any problem to begin with. No,
+But of course if it were that easy there wouldn't be any problem to begin with. No,
 here we are dealing with a problem of the utmost importance. A core problem in
 the field of computational complexity, that some say will not be solved for the
-next millennia (they're obviously wrong). A problem that could change our vision
-of problem solving as a whole.
+next millennium (they're obviously wrong). A problem that could change our vision
+on problem solving as a whole.
 
 Let's dig in and see what's all fuss about.
 
@@ -56,7 +56,7 @@ The {{< math.inline >}} \(\bf DTIME\) is really straight forward:{{< /math.inlin
 {{< /math.inline >}}. This definition imposes no explicit limitations on runtime,
 just limitations on the type of machine.
 
-{{< math.inline >}} \(\bf P\) on the other hand adds limitations for an "efficient"
+{{< math.inline >}} \(\bf P\), on the other hand, adds limitations for an "efficient"
 runtime. That is, \(L \in \bold{P} \iff L \in \bigcup_{c \ge 1}\bold{DTIME}(n^c)\).
 Thus \(\bf P\) is the set of all languages decidable in polynomial time on a
 deterministic TM. Of course this notion that polynomial time is efficient is
@@ -122,7 +122,7 @@ be at most \(\ell\) it is easy to verify that information. But it doesn't seem t
 be in \(\bf P\) as the way to find a solution seems to involve checking every
 permutation of the city visit order (\(O(n!)\)).{{< /math.inline >}}[^better]
 
-[^better]: There are better algorithms like the [Held–Karp algorithm](https://en.wikipedia.org/wiki/Held%E2%80%93Karp_algorithm)
+[^better]: There are better algorithms like the [Held–Karp algorithm](https://en.wikipedia.org/wiki/Held%E2%80%93Karp_algorithm),
   but it's still in {{< math.inline >}}\(\Theta(n^2 2^n)\){{< /math.inline >}}
 
 To point out the fact that --at least for now-- we have problems that cannot be solved
