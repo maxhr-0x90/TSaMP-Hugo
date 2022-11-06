@@ -33,11 +33,12 @@ we say that a Turing machine \(M\) decides \(L\) if \(x \in L \iff M(x)~accepted
 {{< /math.inline >}} In other words, if it's possible to create a TM that accepts
 only inputs if they're in a given language then that language is decidable.
 
-A language that is famously undecidable is the `HALT` language, part of the Halting
-problem. `HALT` contains the set of all TM descriptions that halt (i.e. don't loop
+{{< math.inline >}}
+A language that is famously undecidable is the \(\sf HALT\) language, part of the Halting
+problem. \(\sf HALT\) contains the set of all TM descriptions that halt (i.e. don't loop
 infinitely). Proving this requires explaining what a Universal Turing Machine
 and diagonalization are. So, for now, we'll stop here, but, not to worry,
-a future entry shall touch on that subject.
+a future entry shall touch on that subject{{< /math.inline >}}.
 
 ## Complexity classes
 
