@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg  version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="585" height="468" viewBox="0 0 585 468"
+	 overflow="visible" enable-background="new 0 0 585 468" xml:space="preserve">
+<polygon fill="#0060B6" points="468,99 522,225 576,171 576,135 "/>
+<polygon fill="#0060B6" points="18,270 9,144 126,207 "/>
+<polyline fill="none" stroke="#000000" stroke-width="2" points="18,270 54,207 9,144 18,270 126,207 9,144 "/>
+<polygon opacity="0.5" fill="#00A0C6" points="333,81 414,153 468,99 "/>
+<polygon opacity="0.5" fill="#00A0C6" points="279,108 198,9 198,99 "/>
+<polygon opacity="0.5" fill="#00A0C6" points="198,99 279,108 333,81 "/>
+<polygon opacity="0.5" fill="#00A0C6" points="342,387 369,459 486,387 "/>
+<polygon opacity="0.5" fill="#00A0C6" points="513,459 486,387 369,459 "/>
+<polygon opacity="0.5" fill="#00A0C6" points="288,441 342,387 369,459 "/>
+<polygon opacity="0.5" fill="#00A0C6" points="342,387 288,261 342,315 "/>
+<polygon opacity="0.5" fill="#00A0C6" points="342,315 288,441 342,387 "/>
+<polygon opacity="0.5" fill="#00A0C6" points="342,315 198,315 288,261 "/>
+<polygon opacity="0.5" fill="#00A0C6" points="342,387 198,387 288,441 "/>
+<polygon opacity="0.5" fill="#00A0C6" points="522.001,225 468.001,99 414.001,153 "/>
+<path opacity="0.5" fill="#00A0C6" d="M288,441"/>
+<line fill="none" stroke="#000000" stroke-width="2" x1="576" y1="135" x2="576" y2="171"/>
+<polyline fill="none" stroke="#000000" stroke-width="2" points="522,225 576,135 468,99 "/>
+<polyline fill="none" stroke="#000000" stroke-width="2" points="414,153 333,81 468,99 "/>
+<rect x="342" y="315" fill="none" stroke="#000000" stroke-width="2" width="144" height="72"/>
+<polyline fill="none" stroke="#000000" stroke-width="2" points="486,315 521.999,225 413.999,153 468,99 576,171.002 521.999,225
+	"/>
+<line fill="none" stroke="#000000" stroke-width="2" x1="468" y1="99" x2="521.999" y2="225"/>
+<polygon fill="none" stroke="#000000" stroke-width="2" points="342,315 288,441 342,387 288,261 "/>
+<polyline fill="none" stroke="#000000" stroke-width="2" points="342,315 198,315 288,261 "/>
+<line fill="none" stroke="#000000" stroke-width="2" x1="54" y1="207" x2="126" y2="207"/>
+<polyline fill="none" stroke="#000000" stroke-width="2" points="288,441 369,459 486,387 513,459 369,459 342,387 198,387 288,441
+	"/>
+<polyline fill="none" stroke="#000000" stroke-width="2" points="198,99 333,81 279,108 333,81 198,99 198,9 279,108 198,99
+	126,207 198,315 198,387 "/>
+<path fill="none" stroke="#000000" stroke-width="2" d="M387,180"/>
+<path fill="none" stroke="#000000" stroke-width="2" d="M306,189"/>
+<circle fill="#FF0000" stroke="#000000" cx="198" cy="9" r="5"/>
+<circle fill="#FF0000" stroke="#000000" cx="198" cy="99" r="5"/>
+<circle fill="#FF0000" stroke="#000000" cx="279" cy="108" r="5"/>
+<circle fill="#FF0000" stroke="#000000" cx="333" cy="81" r="5"/>
+<circle fill="#FF0000" stroke="#000000" cx="126" cy="207" r="5"/>
+<circle fill="#FF0000" stroke="#000000" cx="54" cy="207" r="5"/>
+<circle fill="#FF0000" stroke="#000000" cx="198" cy="315" r="5"/>
+<circle fill="#FF0000" stroke="#000000" cx="288" cy="261" r="5"/>
+<circle fill="#FF0000" stroke="#000000" cx="342" cy="315" r="5"/>
+<circle fill="#FF0000" stroke="#000000" cx="288" cy="441" r="5"/>
+<circle fill="#FF0000" stroke="#000000" cx="369" cy="459" r="5"/>
+<circle fill="#FF0000" stroke="#000000" cx="513" cy="459" r="5"/>
+<circle fill="#FF0000" stroke="#000000" cx="486" cy="387" r="5"/>
+<circle fill="#FF0000" stroke="#000000" cx="486" cy="315" r="5"/>
+<circle fill="#FF0000" stroke="#000000" cx="522" cy="225" r="5"/>
+<circle fill="#FF0000" stroke="#000000" cx="468" cy="99" r="5"/>
+<circle fill="#FF0000" stroke="#000000" cx="414" cy="153" r="5"/>
+<circle fill="#FF0000" stroke="#000000" cx="576" cy="171" r="5"/>
+<circle fill="#FF0000" stroke="#000000" cx="342" cy="387" r="5"/>
+<circle fill="#FF0000" stroke="#000000" cx="198" cy="387" r="5"/>
+<circle fill="#FF0000" stroke="#000000" cx="9" cy="144" r="5"/>
+<circle fill="#FF0000" stroke="#000000" cx="18" cy="270" r="5"/>
+<circle fill="#FF0000" stroke="#000000" cx="576" cy="135" r="5"/>
+<rect fill="none" width="585" height="468"/>
+</svg>
