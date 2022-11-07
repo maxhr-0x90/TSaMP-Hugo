@@ -4,7 +4,7 @@ date: 2022-11-06T11:36:27+01:00
 summary: |
   - Appearances are not always what they seem.
   - Sometimes a problem is just another one in disguise.
-draft: true
+draft: false
 ---
 
 {{< math.inline >}}

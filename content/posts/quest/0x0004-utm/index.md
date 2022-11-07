@@ -2,13 +2,13 @@
 title: "One Machine to rule them all"
 date: 2022-11-05T15:33:43+01:00
 summary: Universal Turing Machines, or the abstraction of software
-draft: true
+draft: false
 ---
 
 Turing Machines have many tricks up their sleeves. So many in fact that it would
 be quite tedious to just list them all. That's why in my recap' of
 [Turing's Keynote](/posts/quest/0x0002-tm) I have kept things at surface level.
-But even in this endeavour of sum up the conference I wasn't able to cram in one
+But even in this endeavour of summing up the conference I wasn't able to cram in one
 very important matter: Universal Turing Machines.
 
 So here it is. The follow up to my first entry on TMs.
@@ -44,7 +44,7 @@ The proof goes something like this:
 {{< math.inline >}}
 NB: It should take around \(3 \cdot log(|\Gamma|)\) steps to execute one step
 of \(M\) (that includes moving the heads). That being said to be absolutely sure
-we say that each step finishes within \(4 \cdot log(|\Gamma|)\)
+we say that each step finishes within \(4 \cdot log(|\Gamma|)\) steps
 {{< /math.inline >}}.
 
 {{< math.inline >}}
@@ -56,11 +56,11 @@ the same things; i.e. filling the empty cells and marking the start).
 {{< /math.inline >}}
 And the principal idea is the same, with encoding it is possible to use an
 arbitrarily small alphabet -- of size at least 2 -- and get the same results
-as a bigger one, for a constant cost -- relative to the ito unarynput size -- at runtime
+as a bigger one, for a constant cost -- relative to the input size -- at runtime
 (thus asymptotically irrelevant).
 
-This tangent allows us to comprehend the power of encoding. But of course, it's useful
-for way more than alphabets. It is always possible to encode something as long as the
+This tangent allows us to comprehend the power of encoding. But of course, its usefulness
+goes beyond alphabet conversion. It is always possible to encode something as long as the
 alphabet describing it is finite -- natural language and formal notation count :wink:.
 That way it's possible to input numbers, lists and graphs in a TM no matter the alphabet.
 And that also goes also for TMs themselves !
