@@ -11,7 +11,7 @@ I've still much more to learn on the topic of computational complexity before
 trying to defeat the final boss. Nonetheless I think it's important to state some
 of my current goals.
 
-First of all, I need to finish *Computational Complexity: A Modern Approach* by
+First of all, I need to finish Part I of *Computational Complexity: A Modern Approach* by
 Sanjeev Arora and Boaz Barak. It shall solidify my understanding of the field and
 thus the P vs. NP problem. It will also offer me different point of view on said
 problem and thus multiple way to tackle it.
